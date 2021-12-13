@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alimourad
-- 👀 I’m interested in App Development and Data Analytics
-- 🌱 I’m currently learning React Native and working on a Mobile app
+- 👀 I’m interested in Mobile/Web App Development and Quality Assurance
+- 🌱 I’m currently learning React Native and Test Automation
 - 📫 You can reach me on my Linkedin Profile @ /in/uniealmourad/
