@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alimourad
-- 👀 I’m interested in Mobile/Web App Development and Quality Assurance
-- 🌱 I’m currently learning React Native and Test Automation
-- 📫 You can reach me on my Linkedin Profile @ /in/uniealmourad/
+- 👀 I’m interested in Web Development and Quality Assurance
+- 🌱 I’m currently learning JavaScript and Test Automation with Cypress and Jest
+- 📫 You can reach me on my Linkedin Profile @ /in/alimouradmourad/
